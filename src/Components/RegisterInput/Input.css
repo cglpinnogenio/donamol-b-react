@@ -1,0 +1,10 @@
+.input-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .error {
+    color: red;
+    border: red;
+  }
+  

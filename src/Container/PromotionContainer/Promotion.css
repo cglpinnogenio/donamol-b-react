@@ -1,0 +1,77 @@
+.outer {
+
+    background-image: url(../../Assets/Images/sofadown.svg);
+
+    border: 1px solid transparent;
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    background-position: center;
+
+    min-width: 100%;
+
+    height: 80vh;
+
+    text-align: center;
+
+    padding-top: 13%;
+
+  }
+
+ 
+
+  .outer-image {
+
+ 
+
+    padding: 2rem;
+
+  }
+
+ 
+
+  label {
+
+    font-size: 6rem;
+
+    color: #e6e3e3;
+
+    max-width: 40%;
+
+  }
+
+ 
+
+ 
+
+ 
+
+  #text-para {
+
+    width: 70%;
+
+    text-align: center;
+
+    /* margin-top: 60%; */
+
+    padding-left: 30%;
+
+  }
+
+ 
+
+  .common-input {
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 3rem;
+
+    background-color: transparent;
+
+    cursor: pointer;
+
+  }
