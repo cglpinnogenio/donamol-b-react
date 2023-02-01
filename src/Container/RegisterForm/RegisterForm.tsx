@@ -2,7 +2,7 @@ import React from "react";
 import { useFormik } from "formik";
 import "./RegisterForm.css";
 import * as yup from "yup";
-import Input from "../../Components/RegisterInput/Input";
+import Input from "../../Components/RegisterInput/RegisterInput";
 
 const validationSchema = yup.object({
   username: yup.string().required("UserName is a required field "),
